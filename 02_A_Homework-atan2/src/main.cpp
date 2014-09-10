@@ -1,0 +1,18 @@
+/*referenced examples from cwhitney/algo2013
+ Title: Chaos
+ by Julie Huynh
+ created 09/10/14
+ */
+#include "ofMain.h"
+#include "testApp.h"
+
+//========================================================================
+int main( ){
+	ofSetupOpenGL(1024,1024,OF_WINDOW);			// <-------- setup the GL context
+
+	// this kicks off the running of my app
+	// can be OF_WINDOW or OF_FULLSCREEN
+	// pass in width and height too:
+	ofRunApp(new testApp());
+
+}
