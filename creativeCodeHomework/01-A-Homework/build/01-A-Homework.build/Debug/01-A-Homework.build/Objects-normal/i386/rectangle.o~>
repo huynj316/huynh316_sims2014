@@ -1,3 +1,0 @@
-/Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/01-A-Homework/src/rectangle.cpp: In member function 'void rectangle::interpolateByPct(float)':
-/Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/01-A-Homework/src/rectangle.cpp:24: error: 'radiusa' was not declared in this scope
-/Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/01-A-Homework/src/rectangle.cpp:24: error: 'radiusb' was not declared in this scope

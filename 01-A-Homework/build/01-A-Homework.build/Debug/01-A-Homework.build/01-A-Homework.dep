@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 00000000000000000000000000000000 342fb6ed964162f3598c82c777639c49 ffffffffffffffffffffffffffffffff 0 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/bin/01-A-HomeworkDebug.app/Contents/Frameworks/GLUT.framework
 b1dd06c71ef44d10051565df4ed13b11 09125037b3ef82e92f781cc23a731bda ffffffffffffffffffffffffffffffff 0 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/bin/01-A-HomeworkDebug.app/Contents/MacOS/01-A-HomeworkDebug
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 171868 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/build/01-A-Homework.build/Debug/01-A-Homework.build/Objects-normal/i386/circle.o
@@ -7,6 +8,8 @@ ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffff
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 102 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/bin/01-A-HomeworkDebug.app
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/bin/01-A-HomeworkDebug.app/Contents/PkgInfo
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1083 /Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/bin/01-A-HomeworkDebug.app/Contents/Info.plist
+=======
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 171868 /Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/01-A-Homework/build/01-A-Homework.build/Debug/01-A-Homework.build/Objects-normal/i386/circle.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 172184 /Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/01-A-Homework/build/01-A-Homework.build/Debug/01-A-Homework.build/Objects-normal/i386/rectangle.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 265436 /Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/01-A-Homework/build/01-A-Homework.build/Debug/01-A-Homework.build/Objects-normal/i386/testApp.o

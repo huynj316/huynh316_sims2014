@@ -325,7 +325,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
+<<<<<<< HEAD
 										<string>CB6D795619B7D6B200117222</string>
+=======
+										<string>CB6D794C19B78A7100117222</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 										<key>history</key>
 										<array>
 											<string>CB6D77A919B7654600117222</string>
@@ -335,7 +339,11 @@
 											<string>CB6D78D119B7815000117222</string>
 											<string>CB6D78D719B7819F00117222</string>
 											<string>CB6D78E919B7824100117222</string>
+<<<<<<< HEAD
 											<string>CB6D794C19B78A7100117222</string>
+=======
+											<string>CB6D792119B789BC00117222</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -347,14 +355,22 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
+<<<<<<< HEAD
 								<string>{{0, 0}, {580, 251}}</string>
+=======
+								<string>{{0, 0}, {580, 260}}</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 								<key>RubberWindowFrame</key>
 								<string>874 524 788 504 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
+<<<<<<< HEAD
 							<string>251pt</string>
+=======
+							<string>260pt</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -367,14 +383,22 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
+<<<<<<< HEAD
 								<string>{{0, 256}, {580, 207}}</string>
+=======
+								<string>{{0, 265}, {580, 198}}</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 								<key>RubberWindowFrame</key>
 								<string>874 524 788 504 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
+<<<<<<< HEAD
 							<string>207pt</string>
+=======
+							<string>198pt</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -393,9 +417,15 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
+<<<<<<< HEAD
 				<string>CB6D795719B7D6B200117222</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
 				<string>CB6D795819B7D6B200117222</string>
+=======
+				<string>CB6D793F19B78A6700117222</string>
+				<string>1CE0B1FE06471DED0097A5F4</string>
+				<string>CB6D794019B78A6700117222</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -533,8 +563,17 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+<<<<<<< HEAD
 		<string>CB6D769C19B6F6E200117222</string>
 		<string>/Applications/of_v0.8.0_osx_release/apps/huynh316_sims2014/creativeCodeHomework/01-A-Homework/01-A-Homework.xcodeproj</string>
+=======
+		<string>CB6D794A19B78A6700117222</string>
+		<string>CB6D794B19B78A6700117222</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
+		<string>CB6D769C19B6F6E200117222</string>
+		<string>/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/01-A-Homework/01-A-Homework.xcodeproj</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 	</array>
 	<key>WindowString</key>
 	<string>874 524 788 504 0 0 1680 1028 </string>
@@ -614,7 +653,11 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>CB6D769C19B6F6E200117222</string>
+<<<<<<< HEAD
 				<string>CB6D795919B7D6B200117222</string>
+=======
+				<string>CB6D794119B78A6700117222</string>
+>>>>>>> b9ffd15db186c0401efa747d10bc4ca23133f8d3
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
