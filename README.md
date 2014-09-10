@@ -3,6 +3,9 @@ creativeCodeHomework
 
 PSAM 5566 - B Creative Code Homework Repository
 
+Week 2 Homework:
+* [Video of Homework](https://vimeo.com/105811625) 
+
 ![01](http://a.parsons.edu/~huynj316/sims2014/sinHw1.png)
 ![02](http://a.parsons.edu/~huynj316/sims2014/sinHw2.png)
 ![03](http://a.parsons.edu/~huynj316/sims2014/sinHw3.png)
