@@ -2,8 +2,10 @@ creativeCodeHomework
 ====================
 
 PSAM 5566 - B Creative Code Homework Repository
+
 Week 3 Homework: 
 * [Particle Video](https://vimeo.com/106438880)
+
 Week 2 Homework:
 * [Video of Homework](https://vimeo.com/105811625) 
 * [Motion Video](https://vimeo.com/105812674) 
