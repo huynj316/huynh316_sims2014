@@ -1,0 +1,30 @@
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:14: error: 'particle' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:14: error: ISO C++ forbids declaration of 'particle' with no type
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: In function 'int particle()':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:15: error: 'setInitialCondition' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:16: error: 'damping' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:17: error: 'bFixed' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:21: error: 'particle' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: In function 'void resetForce()':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:23: error: 'frc' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:27: error: 'particle' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: In function 'void addForce(float, float)':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:29: error: 'frc' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:34: error: 'particle' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: In function 'void addRepulsionForce(float, float, float, float)':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:43: error: 'pos' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:60: error: 'frc' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:66: error: 'particle' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: In function 'void addAttractionForce(float, float, float, float)':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:75: error: 'pos' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:92: error: 'frc' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:98: error: 'particle' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:98: error: variable or field 'addRepulsionForce' declared void
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:98: error: 'p' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:98: error: expected primary-expression before 'float'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm/src/particle.cpp:98: error: expected primary-expression before 'float'

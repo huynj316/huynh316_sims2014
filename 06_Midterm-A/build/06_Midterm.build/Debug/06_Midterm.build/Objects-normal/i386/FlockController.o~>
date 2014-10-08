@@ -1,0 +1,50 @@
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:22: error: 'FlockController' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:22: error: ISO C++ forbids declaration of 'FlockController' with no type
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:25: error: 'FlockController' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: In function 'void addParticle(int)':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:29: error: 'TWO_PI' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:29: error: 'ofRandom' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:32: error: 'sqrt' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:33: error: 'cos' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:34: error: 'sin' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:37: error: 'ofVec3f' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:37: error: expected `;' before 'randVec'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:39: error: expected `;' before 'pos'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:40: error: expected `;' before 'vel'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:42: error: 'Boid' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:42: error: expected `;' before 'b'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:43: error: 'boidList' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:43: error: 'b' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:47: error: 'FlockController' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: In function 'void applyForces(float, float, float)':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: 'vector' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: 'Boid' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: '::iterator' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: expected `;' before 'b1'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: 'b1' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:50: error: 'boidList' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:52: error: '::iterator' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:52: error: expected `;' before 'b2'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:53: error: 'b2' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:56: error: 'ofVec3f' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:56: error: expected `;' before 'dir'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:57: error: 'dir' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:71: error: 'ofMap' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:72: error: 'ofVec2f' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:72: error: expected `;' before 'force'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:73: error: 'force' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:84: error: 'ofMap' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:97: error: 'ofMap' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:98: error: 'ofVec2f' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:98: error: expected `;' before 'force'
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:99: error: 'force' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:116: error: 'ofVec3f' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:121: error: 'FlockController' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: In function 'void update()':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:122: error: 'boidList' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:128: error: 'FlockController' is not a class or namespace
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp: In function 'void draw()':
+/Applications/of_v0.8.0_osx_release/apps/creativeCoding-F14-local/06_Midterm-A/src/FlockController.cpp:129: error: 'boidList' was not declared in this scope
