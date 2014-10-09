@@ -3,6 +3,18 @@ creativeCodeHomework
 
 PSAM 5566 - B Creative Code Homework Repository
 
+Midterm Controls:
+a = turns off background
+d = turns on background
+w = adds movement to springs in slug
+mouse press = adds more shrimp & activates sounds of shrimp birth
+mouse drag = alters camera position
+
+space bar = switch to full screen
+
+slug = orange and blue creature
+shrimp = pink and red particles
+
 Week 3 Homework: 
 * [Particle Video](https://vimeo.com/106438880)
 
