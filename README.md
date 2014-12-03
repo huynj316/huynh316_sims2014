@@ -8,6 +8,8 @@ Final:
 * The volume is controlled by the user's attention level.
 * This prototype uses particles in place of paramecium, and explores using brianwaves to control their movements
 * [Mind Controlled Particles Video](https://vimeo.com/113549655)
+* ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
+* ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
 
 Midterm Controls:
 * a = turns off background
