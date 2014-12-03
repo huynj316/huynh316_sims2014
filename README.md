@@ -5,7 +5,7 @@ PSAM 5566 - B Creative Code Homework Repository
 Final:
 * Attention and Meditation values read by the Neurosky biofeedback sensor are controlling the movement of the particles attraction and repulsion.
 * Blinking turns on and off the background, to see trails of the particles movements.
-* The volume is controlled by the user's attention level.
+* The volume is controlled by the user's attention level.(Note: sound is currently broken and commented out).
 * This prototype uses particles in place of paramecium, and explores using brianwaves to control their movements
 * [Mind Controlled Particles Video](https://vimeo.com/113549655)
 * ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
