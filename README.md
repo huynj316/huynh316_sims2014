@@ -7,6 +7,7 @@ Final:
 * Blinking turns on and off the background, to see trails of the particles movements.
 * The volume is controlled by the user's attention level.(Note: sound is currently broken and commented out).
 * This prototype uses particles in place of paramecium, and explores using brianwaves to control their movements
+* [PowerPoint Presentation](https://drive.google.com/file/d/0B1G7VLZPB86NUy1BODNTZWlxaXM/view?usp=sharing)
 * [Mind Controlled Particles Video](https://vimeo.com/113549655)
 * ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
 * ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
