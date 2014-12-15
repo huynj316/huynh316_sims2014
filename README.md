@@ -14,7 +14,7 @@ Final:
 ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
 * The second part of my final encompasses building a DIY Microscope for the paramecium's stage and putting together a oF sketch with the ofxBlobTracker addon.
 * [Blob Tracking Paramecium Video](https://vimeo.com/114521016)
-![01](http://a.parsons.edu/~huynj316/sims2014/DIYmic.png)
+![01](http://a.parsons.edu/~huynj316/sims2014/DIYmic.jpg)
 ![02](http://a.parsons.edu/~huynj316/sims2014/blob3.png)
 ![03](http://a.parsons.edu/~huynj316/sims2014/blob4.png)
 ![04](http://a.parsons.edu/~huynj316/sims2014/blob2.png)
