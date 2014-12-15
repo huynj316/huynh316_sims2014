@@ -25,6 +25,11 @@ Midterm Controls:
 * slug: orange and blue creature
 * shrimp: pink and red particles
 
+![01](http://a.parsons.edu/~huynj316/sims2014/midterm1.png)
+![02](http://a.parsons.edu/~huynj316/sims2014/midterm2.png)
+![03](http://a.parsons.edu/~huynj316/sims2014/midterm3.png)
+![04](http://a.parsons.edu/~huynj316/sims2014/midterm4.png)
+
 Week 4 Homework:
 * [Squash & Stretch](https://www.youtube.com/watch?v=-n7x5BFwuLA)
 * [Anticipation](https://www.youtube.com/watch?v=OydSRRE1rx8)
