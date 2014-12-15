@@ -12,7 +12,7 @@ Final:
 * [Mind Controlled Particles Video](https://vimeo.com/113549655)
 ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
 ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
-* The second part of my final encompasses building a DIY Microscope for the paramecium's stage and putting together a oF sketch with the ofxBlobTracker addon.
+* The second part of my final encompasses building a DIY Microscope for the paramecium's stage and putting together a oF sketch with the ofxBlobTracker addon to receive live video feed or track on a video recording.
 * [Blob Tracking Paramecium Video](https://vimeo.com/114521016)
 ![01](http://a.parsons.edu/~huynj316/sims2014/DIYmic.JPG)
 ![02](http://a.parsons.edu/~huynj316/sims2014/blob3.png)
