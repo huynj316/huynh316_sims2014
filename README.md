@@ -13,7 +13,8 @@ Final:
 * ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
 * ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
 
-Midterm Controls:
+Midterm:
+Controls:
 * a = turns off background
 * d = turns on background
 * w = adds movement to springs in slug
