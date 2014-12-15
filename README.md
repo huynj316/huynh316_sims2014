@@ -24,6 +24,10 @@ Midterm Controls:
 * slug: orange and blue creature
 * shrimp: pink and red particles
 
+Week 4 Homework:
+* [Squash & Stretch](https://www.youtube.com/watch?v=E9TmyzsYoEk)
+* 
+
 Week 3 Homework: 
 * [Particle Video](https://vimeo.com/106438880)
 
