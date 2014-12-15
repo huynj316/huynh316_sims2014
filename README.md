@@ -25,6 +25,8 @@ Midterm Controls:
 * slug: orange and blue creature
 * shrimp: pink and red particles
 
+* [Midterm Video](https://vimeo.com/114519058)
+
 ![01](http://a.parsons.edu/~huynj316/sims2014/midterm2.png)
 ![02](http://a.parsons.edu/~huynj316/sims2014/midterm1.png)
 ![03](http://a.parsons.edu/~huynj316/sims2014/midterm3.png)
