@@ -2,6 +2,7 @@ creativeCodeHomework
 ====================
 
 PSAM 5566 - B Creative Code Homework Repository
+
 Final:
 * Attention and Meditation values read by the Neurosky biofeedback sensor are controlling the movement of the particles attraction and repulsion.
 * Blinking turns on and off the background, to see trails of the particles movements.
