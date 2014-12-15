@@ -25,8 +25,12 @@ Midterm Controls:
 * shrimp: pink and red particles
 
 Week 4 Homework:
-* [Squash & Stretch](https://www.youtube.com/watch?v=E9TmyzsYoEk)
-* 
+* [Squash & Stretch](https://www.youtube.com/watch?v=-n7x5BFwuLA)
+* [Anticipation](https://www.youtube.com/watch?v=OydSRRE1rx8)
+* [Staging](https://www.youtube.com/watch?v=V0vKbxY61Es)
+* [Straight Ahead Action Pose to Pose](https://www.youtube.com/watch?v=sZHdfHJtNWc)
+* [Follow Through and Overlapping Action](https://www.youtube.com/watch?v=FcuGgJu8Y6M)
+* [Slow In Slow Out](https://www.youtube.com/watch?v=E_XY8MMbqek)
 
 Week 3 Homework: 
 * [Particle Video](https://vimeo.com/106438880)
