@@ -7,11 +7,12 @@ Final:
 * Attention and Meditation values read by the Neurosky biofeedback sensor are controlling the movement of the particles attraction and repulsion.
 * Blinking turns on and off the background, to see trails of the particles movements.
 * The volume is controlled by the user's attention level.(Note: sound is currently broken and commented out).
-* This prototype uses particles in place of paramecium, and explores using brianwaves to control their movements
+* The first part of my final uses particles in place of paramecium, and explores using brianwaves to control their movements
 * [PowerPoint Presentation](https://drive.google.com/file/d/0B1G7VLZPB86NUy1BODNTZWlxaXM/view?usp=sharing)
 * [Mind Controlled Particles Video](https://vimeo.com/113549655)
 ![01](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-1.png)
 ![02](http://a.parsons.edu/~huynj316/sims2014/mindControlledParticles-2.png)
+* The second part of my final encompasses building a DIY Microscope for the paramecium's stage and putting together a oF sketch with the ofxBlobTracker addon.
 * [Blob Tracking Paramecium Video](https://vimeo.com/114521016)
 ![01](http://a.parsons.edu/~huynj316/sims2014/blob3.png)
 ![02](http://a.parsons.edu/~huynj316/sims2014/blob4.png)
