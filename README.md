@@ -20,6 +20,7 @@ Final:
 ![04](http://a.parsons.edu/~huynj316/sims2014/blob2.png)
 
 Midterm:
+
 Controls:
 * a = turns off background
 * d = turns on background
